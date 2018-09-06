@@ -1,0 +1,6 @@
+framework module Pods_counterDemo {
+  umbrella header "Pods-counterDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
